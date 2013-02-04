@@ -18,4 +18,5 @@ public class References {
 	public static final int lightAxeID = 28060;
 	public static final int lightHoeID = 28064;
 	public static final int oreCrysID = 580;
+	public static final int glowPlant = 581;
 }
